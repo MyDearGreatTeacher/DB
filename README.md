@@ -32,6 +32,13 @@ DESCRIBE  city;
 Select * 
 from City;
 
+Select id, NAME
+from City;
+
+Select id, NAME
+from City
+where id=4075;
+
 
 DESCRIBE Country;
 
